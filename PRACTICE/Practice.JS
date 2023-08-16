@@ -7,3 +7,4 @@ function showTime(){
 const tId=setInterval(showTime,1000)
 
 //PRACTICE1
+//practice2
