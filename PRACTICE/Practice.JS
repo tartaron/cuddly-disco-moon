@@ -5,3 +5,5 @@ function showTime(){
     clearInterval(tId)
 }
 const tId=setInterval(showTime,1000)
+
+//PRACTICE1
